@@ -15,6 +15,7 @@
 #### Interested with:
 ![](https://img.shields.io/badge/Rust-informational?style=flat&logo=Rust&logoColor=white&color=865840)
 ![](https://img.shields.io/badge/Haskell-informational?style=flat&logo=Haskell&logoColor=white&color=7b33fb)
+![](https://img.shields.io/badge/D3.js/p5.js/Processing-informational?style=flat&logo=Tableau&logoColor=white&color=ff8b3d)
 
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=296d98)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=296d98)
