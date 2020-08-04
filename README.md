@@ -2,7 +2,8 @@
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7f7d7c)
 ![](https://img.shields.io/badge/Distro-Manjaro-informational?style=flat&logo=Manjaro&logoColor=white&color=228c22)
-![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=efa536)
+![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=WebStorm&logoColor=white&color=efa536)
+
 
 #### Current stack:
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Typescript&logoColor=white&color=3792cb)
