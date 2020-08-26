@@ -15,6 +15,7 @@
 
 #### Interested with:
 ![](https://img.shields.io/badge/D3.js/p5.js/Processing-informational?style=flat&logo=Tableau&logoColor=white&color=ff8b3d)
+![](https://img.shields.io/badge/R-informational?style=flat&logo=R&logoColor=white&color=187bcd)
 
 ![](https://img.shields.io/badge/Rust-informational?style=flat&logo=Rust&logoColor=white&color=865840)
 ![](https://img.shields.io/badge/Haskell-informational?style=flat&logo=Haskell&logoColor=white&color=7b33fb)
