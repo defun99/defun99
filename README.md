@@ -18,6 +18,9 @@
 ![](https://img.shields.io/badge/R-informational?style=flat&logo=R&logoColor=white&color=187bcd)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=228B22)
 
+![](https://img.shields.io/badge/OpenGL-informational?style=flat&logo=OpenGL&logoColor=white&color=blue)
+![](https://img.shields.io/badge/WebGL-informational?style=flat&logo=WebGL&logoColor=white&color=red)
+
 
 <!-- ![](https://img.shields.io/badge/Rust-informational?style=flat&logo=Rust&logoColor=white&color=865840)
 ![](https://img.shields.io/badge/Haskell-informational?style=flat&logo=Haskell&logoColor=white&color=7b33fb) -->
