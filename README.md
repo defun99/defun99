@@ -6,7 +6,8 @@
 
 
 #### Current stack:
-(MEAT? LoL)
+ > (MEAT? LoL)
+
 ![](https://img.shields.io/badge/Mongo-informational?style=flat&logo=MongoDB&logoColor=white&color=228c22)
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Typescript&logoColor=white&color=3792cb)
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=white&color=933b27)
