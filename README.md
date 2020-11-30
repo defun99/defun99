@@ -21,6 +21,7 @@
 ![](https://img.shields.io/badge/D3.js/p5.js/Processing-informational?style=flat&logo=Tableau&logoColor=white&color=ff8b3d)
 <!--![](https://img.shields.io/badge/Julia-informational?style=flat&logo=Julia&logoColor=white&color=DA70D6)
 ![](https://img.shields.io/badge/R-informational?style=flat&logo=R&logoColor=white&color=187bcd) -->
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=3792cb)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=228B22)
 
 <!-- ![](https://img.shields.io/badge/Unity/C&#9839;-Informational?style=flat&logo=unity&logoColor=white&color=00008B) -->
