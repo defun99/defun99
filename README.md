@@ -16,6 +16,7 @@
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=228B22)
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&logoColor=white&color=228B22)
 ![](https://img.shields.io/badge/PortgreSQl-informational?style=flat&logo=PortgreSQl&logoColor=white&color=3792cb)
+![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=Vue.js&logoColor=white&color=26ca7a)
 
 #### Interested with:
 <!-- ![](https://img.shields.io/badge/D3.js/p5.js/Processing-informational?style=flat&logo=Tableau&logoColor=white&color=ff8b3d) -->
