@@ -1,7 +1,7 @@
 ### λ
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7f7d7c)
-![](https://img.shields.io/badge/Distro-Manjaro-informational?style=flat&logo=Manjaro&logoColor=white&color=228c22)
+![](https://img.shields.io/badge/Distro-Manjaro-informational?style=flat&logo=Manjaro&logoColor=white&color=39918c)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=efa536)
 
 
@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Typescript&logoColor=white&color=3792cb)
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=white&color=933b27)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=39918c)
-![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=3792cb)
+![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=2f435a)
 
 #### Some experience with:
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=228B22)
