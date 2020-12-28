@@ -23,6 +23,7 @@
 <!--![](https://img.shields.io/badge/Julia-informational?style=flat&logo=Julia&logoColor=white&color=DA70D6)
 ![](https://img.shields.io/badge/R-informational?style=flat&logo=R&logoColor=white&color=187bcd) -->
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=39918c)
+![](https://img.shields.io/badge/Deno-informational?style=flat&logo=Deno&logoColor=black&color=f5f5f5)
 ![](https://img.shields.io/badge/Rust-informational?style=flat&logo=Rust&logoColor=white&color=ab6b51)
 <!--![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=228B22) -->
 
