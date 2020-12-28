@@ -15,7 +15,7 @@
 #### Some experience with:
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=39918c)
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&logoColor=white&color=39918c)
-![](https://img.shields.io/badge/PortgreSQl-informational?style=flat&logo=PortgreSQl&logoColor=white&color=3792cb)
+![](https://img.shields.io/badge/PortgreSQl-informational?style=flat&logo=postgresql&logoColor=white&color=3792cb)
 ![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=Vue.js&logoColor=white&color=39918c)
 
 #### Interested with:
