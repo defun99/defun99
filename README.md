@@ -1,5 +1,8 @@
 ### λ
 
+![github stats](https://github-readme-stats.vercel.app/api?username=defun99&theme=calm&show_icons=true&hide_border=true)
+
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7f7d7c)
 ![](https://img.shields.io/badge/Distro-Manjaro-informational?style=flat&logo=Manjaro&logoColor=white&color=39918c)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=d0b49f)
@@ -49,6 +52,7 @@
 
 <!--
 **defun99/defun99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
