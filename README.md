@@ -1,6 +1,6 @@
 ### λ
 
-![github stats](https://github-readme-stats.vercel.app/api?username=defun99&theme=calm&show_icons=true&hide_border=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=defun99&theme=nightowl&show_icons=true&hide_border=true)
 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7f7d7c)
