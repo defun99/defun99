@@ -28,6 +28,7 @@
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=39918c)
 ![](https://img.shields.io/badge/Deno-informational?style=flat&logo=Deno&logoColor=black&color=f5f5f5)
 ![](https://img.shields.io/badge/Rust-informational?style=flat&logo=Rust&logoColor=white&color=ab6b51)
+![](https://img.shields.io/badge/Go-informational?style=flat&logo=Go&logoColor=white&color=3792cb)
 <!--![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=228B22) -->
 
 <!-- ![](https://img.shields.io/badge/Unity/C&#9839;-Informational?style=flat&logo=unity&logoColor=white&color=00008B) -->
