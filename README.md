@@ -14,12 +14,13 @@
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=white&color=933b27)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=39918c)
 ![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=2f435a)
+![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=Vue.js&logoColor=white&color=39918c)
 
 #### Some experience with:
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=39918c)
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&logoColor=white&color=39918c)
 ![](https://img.shields.io/badge/PortgreSQl-informational?style=flat&logo=postgresql&logoColor=white&color=3792cb)
-![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=Vue.js&logoColor=white&color=39918c)
+
 
 #### Interested with:
 <!-- ![](https://img.shields.io/badge/D3.js/p5.js/Processing-informational?style=flat&logo=Tableau&logoColor=white&color=ff8b3d) -->
