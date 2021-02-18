@@ -28,12 +28,13 @@
 ![](https://img.shields.io/badge/R-informational?style=flat&logo=R&logoColor=white&color=187bcd) -->
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=39918c)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=39918c)
-![](https://img.shields.io/badge/Rust-informational?style=flat&logo=Rust&logoColor=white&color=ab6b51)
+![](https://img.shields.io/badge/Julia-informational?style=flat&logo=Julia&logoColor=white&color=b1a7d1)
 ![](https://img.shields.io/badge/Go-informational?style=flat&logo=Go&logoColor=white&color=3792cb)
 <!-- ![](https://img.shields.io/badge/C&#9839;-informational?style=flat&logo=c-sharp&logoColor=black&color=f5f5f5) -->
 <!--![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=228B22) -->
 
 <!-- ![](https://img.shields.io/badge/Unity/C&#9839;-Informational?style=flat&logo=unity&logoColor=white&color=00008B) -->
+<!-- ![](https://img.shields.io/badge/Rust-informational?style=flat&logo=Rust&logoColor=white&color=ab6b51) -->
 
 <!-- ![](https://img.shields.io/badge/OpenGL-informational?style=flat&logo=OpenGL&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/WebGL-informational?style=flat&logo=WebGL&logoColor=white&color=red) -->
