@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=white&color=933b27)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=39918c)
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Typescript&logoColor=white&color=2f435a)
-![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=Vue.js&logoColor=white&color=39918c)
+![](https://img.shields.io/badge/Vue.js + VueX-informational?style=flat&logo=Vue.js&logoColor=white&color=39918c)
 ![](https://img.shields.io/badge/Mongo-informational?style=flat&logo=MongoDB&logoColor=white&color=39918c)
 
 
