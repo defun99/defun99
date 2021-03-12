@@ -5,7 +5,7 @@
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7f7d7c)
 ![](https://img.shields.io/badge/Distro-Manjaro-informational?style=flat&logo=Manjaro&logoColor=white&color=39918c)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=d0b49f)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=d0b49f)
 
 
 #### Current stack:
