@@ -18,16 +18,15 @@
 ![](https://img.shields.io/badge/Mongo-informational?style=flat&logo=MongoDB&logoColor=white&color=39918c)
 
 
-#### Some experience with:
+
+<!-- #### Some experience with:
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=39918c)
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&logoColor=white&color=39918c)
 ![](https://img.shields.io/badge/PortgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3792cb)
-
-
 #### Interested with:
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=39918c)
 ![](https://img.shields.io/badge/Julia-informational?style=flat&logo=Julia&logoColor=white&color=b1a7d1)
-![](https://img.shields.io/badge/SQL-informational?style=flat&logo=sql&logoColor=white&color=3792cb)
+![](https://img.shields.io/badge/SQL-informational?style=flat&logo=sql&logoColor=white&color=3792cb) -->
 
 <!-- ![](https://img.shields.io/badge/C&#9839;-informational?style=flat&logo=c-sharp&logoColor=black&color=f5f5f5) -->
 <!-- ![](https://img.shields.io/badge/D3.js/p5.js/Processing-informational?style=flat&logo=Tableau&logoColor=white&color=ff8b3d) -->
