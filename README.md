@@ -2,15 +2,14 @@
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=defun99&theme=nightowl&show_icons=true&hide_border=true) -->
 
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7f7d7c)
-![](https://img.shields.io/badge/Distro-Manjaro-informational?style=flat&logo=Manjaro&logoColor=white&color=39918c)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=7f7d7c)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=d0b49f)
 
 
 #### Current stack:
+![](https://img.shields.io/badge/Vue-informational?style=flat&logo=v&logoColor=white&color=39918c)
 ![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=2f435a)
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=white&color=933b27)
-![](https://img.shields.io/badge/Vue-informational?style=flat&logo=Vue.js&logoColor=white&color=39918c)
 
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=39918c)
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Typescript&logoColor=white&color=2f435a)
