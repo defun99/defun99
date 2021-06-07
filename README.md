@@ -11,6 +11,9 @@
 [<img src="https://wakatime.com/share/@defun99/00015e50-3963-4c6e-9570-12ea57b2abfe.svg" width="45%"/>](https://wakatime.com/share/@defun99/00015e50-3963-4c6e-9570-12ea57b2abfe.svg) [<img src="https://wakatime.com/share/@defun99/be5904f5-ee5a-4d6c-942c-0cee85193b6e.svg" width="45%"/>](https://wakatime.com/share/@defun99/be5904f5-ee5a-4d6c-942c-0cee85193b6e.svg)
 
 
+![image](https://www.codewars.com/users/onecoldwhiteday/badges/small)
+
+
 <!-- #### Current stack: -->
 <!-- ![](https://img.shields.io/badge/Vue-informational?style=flat&logo=v&logoColor=white&color=39918c) -->
 <!-- ![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=2f435a) -->
