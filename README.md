@@ -2,18 +2,23 @@
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=defun99&theme=nightowl&show_icons=true&hide_border=true) -->
 
 
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=7f7d7c)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=d0b49f)
+<!-- ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=7f7d7c)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=d0b49f) -->
 
 
-#### Current stack:
-![](https://img.shields.io/badge/Vue-informational?style=flat&logo=v&logoColor=white&color=39918c)
-![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=2f435a)
-![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=white&color=933b27)
+[<img src="https://wakatime.com/share/@defun99/8d65c83a-ddd9-4a53-9aed-f7dd76567119.svg" width="50%"/>](https://wakatime.com/share/@defun99/8d65c83a-ddd9-4a53-9aed-f7dd76567119.svg) [<img src="https://wakatime.com/share/@defun99/6984f83f-167d-4a0c-a2b2-153056e6ed35.svg" width="50%"/>](https://wakatime.com/share/@defun99/6984f83f-167d-4a0c-a2b2-153056e6ed35.svg)
 
-![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=39918c)
-![](https://img.shields.io/badge/Express-informational?style=flat&logo=Typescript&logoColor=white&color=2f435a)
-![](https://img.shields.io/badge/Mongo-informational?style=flat&logo=MongoDB&logoColor=white&color=39918c)
+[<img src="https://wakatime.com/share/@defun99/00015e50-3963-4c6e-9570-12ea57b2abfe.svg" width="50%"/>](https://wakatime.com/share/@defun99/00015e50-3963-4c6e-9570-12ea57b2abfe.svg)
+
+
+<!-- #### Current stack: -->
+<!-- ![](https://img.shields.io/badge/Vue-informational?style=flat&logo=v&logoColor=white&color=39918c) -->
+<!-- ![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=2f435a) -->
+<!-- ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=white&color=933b27) -->
+
+<!-- ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=39918c) -->
+<!-- ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Typescript&logoColor=white&color=2f435a) -->
+<!-- ![](https://img.shields.io/badge/Mongo-informational?style=flat&logo=MongoDB&logoColor=white&color=39918c) -->
 
 
 
