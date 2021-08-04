@@ -6,9 +6,9 @@
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=d0b49f) -->
 
 
-[<img src="https://wakatime.com/share/@defun99/8d65c83a-ddd9-4a53-9aed-f7dd76567119.svg" width="45%"/>](https://wakatime.com/share/@defun99/8d65c83a-ddd9-4a53-9aed-f7dd76567119.svg) [<img src="https://wakatime.com/share/@defun99/6984f83f-167d-4a0c-a2b2-153056e6ed35.svg" width="45%"/>](https://wakatime.com/share/@defun99/6984f83f-167d-4a0c-a2b2-153056e6ed35.svg)
+<!--[<img src="https://wakatime.com/share/@defun99/8d65c83a-ddd9-4a53-9aed-f7dd76567119.svg" width="45%"/>](https://wakatime.com/share/@defun99/8d65c83a-ddd9-4a53-9aed-f7dd76567119.svg) [<img src="https://wakatime.com/share/@defun99/6984f83f-167d-4a0c-a2b2-153056e6ed35.svg" width="45%"/>](https://wakatime.com/share/@defun99/6984f83f-167d-4a0c-a2b2-153056e6ed35.svg)
 
-[<img src="https://wakatime.com/share/@defun99/00015e50-3963-4c6e-9570-12ea57b2abfe.svg" width="45%"/>](https://wakatime.com/share/@defun99/00015e50-3963-4c6e-9570-12ea57b2abfe.svg) [<img src="https://wakatime.com/share/@defun99/be5904f5-ee5a-4d6c-942c-0cee85193b6e.svg" width="45%"/>](https://wakatime.com/share/@defun99/be5904f5-ee5a-4d6c-942c-0cee85193b6e.svg)
+[<img src="https://wakatime.com/share/@defun99/00015e50-3963-4c6e-9570-12ea57b2abfe.svg" width="45%"/>](https://wakatime.com/share/@defun99/00015e50-3963-4c6e-9570-12ea57b2abfe.svg) [<img src="https://wakatime.com/share/@defun99/be5904f5-ee5a-4d6c-942c-0cee85193b6e.svg" width="45%"/>](https://wakatime.com/share/@defun99/be5904f5-ee5a-4d6c-942c-0cee85193b6e.svg) -->
 
 
 <!-- ![image](https://www.codewars.com/users/onecoldwhiteday/badges/small) -->
